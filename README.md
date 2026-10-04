@@ -54,10 +54,10 @@ Identificação dos clientes com maior quantidade de pedidos realizados.
 ```text
 analise-vendas/
 │
-├── dados/
-│   └── vendas.xlsx
+├── vendas_tech.csv
+├── gerentes_lojas.xlsx
 │
-├── analise_vendas.ipynb
+├── app.ipynb
 │
 └── README.md
 ```
